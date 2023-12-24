@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manasi2003
 - 👀 I’m interested in ... Learning Progamming Languages
-- 🌱 I’m currently learning ... C++
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... Python, C++
+- 💞️ I’m looking to collaborate on ...data science & AI projects
 - 📫 How to reach me ...
 
 <!---
