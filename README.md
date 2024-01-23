@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @manasi2003
-- 👀 I’m interested in ... Learning Progamming Languages
-- 🌱 I’m currently learning ... Python, C++
-- 💞️ I’m looking to collaborate on ...data science & AI projects
-- 📫 How to reach me ...
-
-<!---
-manasi2003/manasi2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Problem Statement: Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population.
